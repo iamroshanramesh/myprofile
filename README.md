@@ -9,6 +9,8 @@ Other tools used : Apache 2, MySQL.
 
 In order to execute these files with full features, XAMPP needs to be used.
 
+NOTE: Place these files in htdocs folder inside opt/lampp directory.
+
 Thankyou!
 
 Happy Coding ;)
