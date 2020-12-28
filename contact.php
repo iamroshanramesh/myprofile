@@ -8,7 +8,7 @@ $to = $_POST['email'];
 $host = "ssl://smtp.gmail.com";
 $port = "465";
 $username = 'iamroshanramesh@gmail.com';
-$password = 'universeandyou';
+$password = '****'; /* Password has been hidden for privacy concern */
 $subject = "Thankyou for contacting Roshan";
 $body = "Hey, Happy that you have contacted Roshan. He got your message. He will call/text you shortly";
 $headers = array ('From' => $from, 'To' => $to,'Subject' => $subject);
@@ -26,7 +26,7 @@ $to2 = "iamroshanramesh@gmail.com";
 $host = "ssl://smtp.gmail.com";
 $port = "465";
 $username = 'iamroshanramesh@gmail.com';
-$password = 'universeandyou';
+$password = '****'; /* Password has been hidden for privacy concern */
 $subject2 = 'New Message';
 $body2 = $_POST['message'];
 $headers2 = array ('From' => $from2, 'To' => $to2,'Subject' => $subject2);
