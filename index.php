@@ -10,7 +10,7 @@
   <title>Roshan's Website</title>
 </head>
 <body>
-  <!-- Header -->
+
   <section id="header">
     <div class="header container">
       <div class="nav-bar">
@@ -29,10 +29,10 @@
       </div>
     </div>
   </section>
-  <!-- End Header -->
 
 
-  <!-- Hero Section  -->
+
+
   <section id="hero">
     <div class="hero container">
       <div>
@@ -49,7 +49,7 @@
 
 
 
-  <!-- Projects Section -->
+
   <section id="projects">
     <div class="projects container">
       <div class="projects-header">
@@ -72,7 +72,7 @@
             <h1>Designer</h1>
             <h2>To be creative is the only goal</h2>
             <p>I've created posters is order to promote my business to my contacts and as a result I've good few positive responses. I've made poster for my college events and fuction and managed to win first price too.</p>
-          <a href="https://www.linkedin.com/posts/roshan-ramesh-b172431b9_poster-ive-made-for-corona-awareness-won-activity-6748478375624617984-s9jY" target="_blank" class="cta">VIEW PROJECT</a>
+          <a href="https://www.linkedin.com/posts/roshan-ramesh-b172431b9_poster-ive-made-for-corona-awareness-won-activity-6748478375624617984-s9jY" target="_blank" class="cta">VIEW DESIGN</a>
         </div>
           <div class="project-img">
             <img src="desi.png" alt="img">
@@ -83,7 +83,7 @@
             <h1>Ideator</h1>
             <h2>One Idea and a whole different world</h2>
             <p>I truely belive in my ideas and started participating in Hackathons and Ideatons conducted by PSG CAS innovation council and won first price too. Both idea and my work has been uploaded in my LinkedIn profile.</p>
-          <a href="https://www.linkedin.com/posts/roshan-ramesh-b172431b9_edutool-activity-6748480982095134720-79I6" target="_blank" class="cta">VIEW PROJECT</a>
+          <a href="https://www.linkedin.com/posts/roshan-ramesh-b172431b9_edutool-activity-6748480982095134720-79I6" target="_blank" class="cta">VIEW IDEA</a>
         </div>
           <div class="project-img">
             <img src="ide.jpg" alt="img">
@@ -94,7 +94,7 @@
             <h1>Typewriter</h1>
             <h2>Fast and clean</h2>
             <p>I've completed Junior and Senior in Typewriting government exams with an excellent type speed. I type fast and clean, so that I belive I could complete projects on time and my type speed wont be a problem for it anyway.</p>
-          <a href="https://www.eagaloid.com/vision" target="_blank" class="cta">VIEW PROJECT</a>
+          <a href="https://www.eagaloid.com/vision" target="_blank" class="cta">VIEW WORK</a>
         </div>
           <div class="project-img">
             <img src="typ.jpg" alt="img">
@@ -105,7 +105,7 @@
             <h1>English Excellence</h1>
             <h2>I speak, I write</h2>
             <p>I've was left to a suiuation where managing the digital marketing part of my company was my reponsibilty. I write professional emails and content of my blog myself. I started a blog as a subdomain of my startup and started posting articles on the things I feel interesting.</p>
-          <a href="https://www.eagaloid.com/blog" target="_blank" class="cta">VIEW PROJECT</a>
+          <a href="https://www.eagaloid.com/blog" target="_blank" class="cta">VIEW BLOG</a>
         </div>
           <div class="project-img">
             <img src="eng.jpg" alt="img">
@@ -114,9 +114,9 @@
       </div>
     </div>
   </section>
-  <!-- End Projects Section -->
 
-  <!-- About Section -->
+
+
   <section id="about">
     <div class="about container">
       <div class="col-left">
@@ -132,9 +132,9 @@
       </div>
     </div>
   </section>
-  <!-- End About Section -->
 
-  <!-- Contact Section -->
+
+
   <section id="contact">
     <div class="contact container">
       <div><h1 class="section-title">Contact <span>Roshan</span></h1></div>
@@ -188,9 +188,9 @@
     <br>
 
   </section>
-  <!-- End Contact Section -->
 
-  <!-- Footer -->
+
+
   <section id="footer">
     <div class="footer container">
       <div class="brand"><h1><span>R</span>oshan's <span>P</span>rofile</h1></div>
@@ -210,7 +210,7 @@
       <p>Copyright © 2020 Roshan. All rights reserved</p>
     </div>
   </section>
-  <!-- End Footer -->
+
   <script src="./app.js"></script>
 
 
